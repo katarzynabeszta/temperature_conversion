@@ -1,3 +1,5 @@
+'use strict';
+
 const converter = document.querySelector('#converter');
 const result = document.querySelector('.result');
 const convertBtn = document.querySelector('.conv');
